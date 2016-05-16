@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonawalker/calculator.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[Bnpm",
+    "calculator"
+  ],
+  "author": "Jason Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonawalker/calculator/issues"
+  },
+  "homepage": "https://github.com/jasonawalker/calculator#readme"
+}
